@@ -1,4 +1,4 @@
-[NAME OF CODE!!!!]
+PFL Wave Model - A pseudospectral potential flow solver for the simulation of fully nonlinear water waves
 
 Copyright 2021 Mathias Klahn, Per A. Madsen and David R. Fuhrman
 Department of Mechanical Engineering
